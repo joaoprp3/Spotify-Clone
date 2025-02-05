@@ -189,7 +189,7 @@ h1 {
 .disclaimer-premium .disclaimer-premium__title{
     color: #fff;
     text-transform: uppercase;
-    font-weight: 400;
+    font-weight: bold;
     font-size: 12px;
     margin-bottom: 10px;
 }
